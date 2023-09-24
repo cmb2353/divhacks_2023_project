@@ -1,5 +1,7 @@
 # divhacks_2023_project
 
+Each branch on its own runs; main runs, leana runs, doctor_search run, mentsrural runs, and main, but the only branched that was able to get merged was doctor_search. 
+
 A new Flutter project.
 
 ## Getting Started
